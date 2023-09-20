@@ -28,7 +28,7 @@ def disease(combobox_var):
     elif(disease_name == "Diarrhea"):
         os.startfile(r".\data\Diseases\Diarrhea.pdf")
 
-    elif(disease_name == "HEART DISEASES"):
+    elif(disease_name == "Heart Disease"):
         os.startfile(r".\data\Diseases\HEART DISEASES.pdf")
 
     elif(disease_name == "Kidney Disease"):
